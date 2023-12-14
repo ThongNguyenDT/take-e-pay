@@ -23,7 +23,7 @@ git clone https://github.com/ThongNguyenDT/take-e-pay.git
 npm install
 npm start
 ```
- 
+  
 ## 🚀 Sử Dụng
 1. Mở ứng dụng trong trình duyệt ưa thích của bạn.
 2. Chuyển đến phần nhận diện sản phẩm.
