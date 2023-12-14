@@ -20,8 +20,6 @@ Dự án "Take-n-Pay" nhằm tạo ra một hệ thống hiệu quả và thân 
 
 ```bash
 git clone https://github.com/ThongNguyenDT/take-e-pay.git
-npm install
-npm start
 ```
   
 ## 🚀 Sử Dụng
@@ -33,7 +31,7 @@ npm start
 
 Trong bản cập nhật này, chúng tôi tập trung vào việc sửa lỗi được xác định thông qua công việc phân tích. Chúng tôi cam kết cung cấp một hệ thống mạnh mẽ và đáng tin cậy, và ý kiến phản hồi của bạn rất quan trọng để đạt được mục tiêu này.
 
-Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, đừng ngần ngại [mở một vấn đề](https://github.com/your-username/take-n-pay/issues).
+Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, đừng ngần ngại [gửi ý kiến](https://github.com/your-username/take-n-pay/issues).
 
 
 ## 👥 Người Đóng Góp
