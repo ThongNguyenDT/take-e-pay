@@ -31,7 +31,7 @@ git clone https://github.com/ThongNguyenDT/take-e-pay.git
 
 Trong bản cập nhật này, chúng tôi tập trung vào việc sửa lỗi được xác định thông qua công việc phân tích. Chúng tôi cam kết cung cấp một hệ thống mạnh mẽ và đáng tin cậy, và ý kiến phản hồi của bạn rất quan trọng để đạt được mục tiêu này.
 
-Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, đừng ngần ngại [gửi ý kiến](https://github.com/your-username/take-n-pay/issues).
+Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, đừng ngần ngại [gửi ý kiến](https://github.com/ThongNguyenDT/take-e-pay/issues).
 
 
 ## 👥 Người Đóng Góp
