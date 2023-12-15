@@ -21,6 +21,11 @@ Dự án "Take-n-Pay" nhằm tạo ra một hệ thống hiệu quả và thân 
 ```bash
 git clone https://github.com/ThongNguyenDT/take-e-pay.git
 ```
+### 📦 File dự án:
+
+1. [Quá trình Train cho AI](#data-for-train-ai)
+2. [Main Code](#main-code)
+
 
 ## 🚀 Sử Dụng
 1. Mở ứng dụng trong trình duyệt ưa thích của bạn.
@@ -41,8 +46,13 @@ Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, 
 | ![AI nhận diện](Image/bot-sort.png) | ![Trang giỏ hàng](Image/viewgiohang.png) |
 </div>
 
-## 🤖 Quá trình Train cho AI: [AI Identifies products](https://drive.google.com/drive/folders/1-o0GijxGF4EhhZGRwn5mXXvJRCGwsFPV?usp=drive_link)
-## Main Code: [COLAB](https://colab.research.google.com/drive/12ClH3xnHauMq-hp8gKmO8y5K3oAh6cEZ?usp=sharing)
+## Data for Train AI
+🚀 [AI Identifies products](https://drive.google.com/drive/folders/1-o0GijxGF4EhhZGRwn5mXXvJRCGwsFPV?usp=drive_link) 🚀
+
+## Main Code
+✨[COLAB](https://colab.research.google.com/drive/12ClH3xnHauMq-hp8gKmO8y5K3oAh6cEZ?usp=sharing)✨
+
+🔍[Prepare code](https://colab.research.google.com/drive/1A-cyJgsHko05O3ATkH1WET-0LeVeihHH?usp=sharing)🔍
 ## 👥 Người Đóng Góp
 - Nguyễn Dương Tiến Thông [(ThongNguyenDT)](https://github.com/ThongNguyenDT)
 - Trần Xuân Thanh Thiện [(TXTThien)](https://github.com/TXTThien)
@@ -54,3 +64,4 @@ Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, 
 | 1 | Nguyễn Dương Tiến Thông | - Triển khai thuật toán nhận diện AI.<br>- Phát triển BoT-SORT và tích hợp Utralytics.<br>- Sử dụng GPU của Google Colab để tối ưu hóa quá trình nhận diện.<br>- Thiết kế giao diện giỏ hàng. | 100% |
 | 2 | Trần Xuân Thanh Thiện | - Annotate và huấn luyện mô hình AI.<br>- Nghiên cứu về YOLO V8, BoTSORT, Utralytics để áp dụng vào dự án.<br>- Kiểm tra và đảm bảo hiệu suất của thuật toán.<br>- Sửa lỗi thuật toán.<br>- Thực hiện kiểm thử chất lượng. | 100% |
 | 3 | Huỳnh Thiện Thọ | - Annotate và huấn luyện mô hình AI.<br>- Viết báo cáo.<br>- Kiểm tra và sửa lỗi thuật toán.<br>- So sánh hiệu suất giữa các thuật toán đã nghiên cứu.<br>- Tích hợp VNPay vào hệ thống thanh toán.<br>- Thực hiện kiểm thử và đánh giá tính ổn định. | 100% |
+
