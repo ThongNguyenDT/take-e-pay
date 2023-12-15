@@ -25,7 +25,7 @@ git clone https://github.com/ThongNguyenDT/take-e-pay.git
 
 1. [Quá trình Train cho AI](#data-for-train-ai)
 2. [Main Code](#main-code)
-
+3. [Full large git of project](https://office365banquyen-my.sharepoint.com/:f:/g/personal/thongnguyen_office365banquyen_onmicrosoft_com/El7ZO10P_ZVFuQlFGKKLAJYBCoxla_Ny3sGTF5bxQes2Dg?e=LzDkfn)
 
 ## 🚀 Sử Dụng
 1. Mở ứng dụng trong trình duyệt ưa thích của bạn.
