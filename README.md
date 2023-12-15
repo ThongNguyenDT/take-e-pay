@@ -35,8 +35,10 @@ Nếu bạn gặp bất kỳ vấn đề nào hoặc có ý kiến đóng góp, 
 
 ## ✨ Sản phẩm
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/129725593/290581300-44271701-43ea-492d-a04a-5ce6db108063.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1NzA4NjIsIm5iZiI6MTcwMjU3MDU2MiwicGF0aCI6Ii8xMjk3MjU1OTMvMjkwNTgxMzAwLTQ0MjcxNzAxLTQzZWEtNDkyZC1hMDRhLTVjZTZkYjEwODA2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNFQxNjE2MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNmMzOGE1NzlmOTFkOTA0YTVlZDJjM2MyNzAwYTc2MjA4OWFhZWFkYzUzOGU0ZTU1MjlkODNmZDlkNTBmYmM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.xF1YzZaGPrOdnzxSN9uCE7GgxE3GZEUb6fmEkK_5oXc" width="410" alt="AI nhận diện">
-  <img src="https://private-user-images.githubusercontent.com/129725593/290579421-3728e7a8-dfa1-46c7-a0ce-975dfeb50387.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1NzA0NzYsIm5iZiI6MTcwMjU3MDE3NiwicGF0aCI6Ii8xMjk3MjU1OTMvMjkwNTc5NDIxLTM3MjhlN2E4LWRmYTEtNDZjNy1hMGNlLTk3NWRmZWI1MDM4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNFQxNjA5MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMjg5ZDllOGQ2MWFiZmU4NThmODY0YWZmYTlmZTczYzBmNDUzNmY1ZGI5MzU2YzUxYmZlNmNkOGYxZGRiYmNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.P7_C8j8Os5OxcQezAZTom-zRWS2U17SRbOX_qTRz-ls" width="350" alt="Trang giỏ hàng">
+
+| AI nhận diện | Trang giỏ hàng |
+|--------------|-----------------|
+| ![AI nhận diện](Image/bot-sort.png) | ![Trang giỏ hàng](Image/viewgiohang.png) |
 </div>
 
 ## 🤖 Quá trình Train cho AI: [AI Identifies products](https://drive.google.com/drive/folders/1-o0GijxGF4EhhZGRwn5mXXvJRCGwsFPV?usp=drive_link)
